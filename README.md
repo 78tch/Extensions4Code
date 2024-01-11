@@ -12,11 +12,10 @@ Visual Studio Code で、便利な「設定」と「機能拡張」について�
 2. 「Markdown Preview Github Styling」：Markdown 記法で書いた文書をGithub のスタイルでプレビューできる。
 3. 「Auto-Open Markdown Preview」：拡張子「.md」なファイルを開くと、プレビューウィンドウも自動で開く。
 4. 「Excel to Markdown table」：表計算で範囲をコピーした状態で、コマンドパレットから呼び出すと、「table」記法にして貼り付けてくれる。
-5. 「Excel Viewer」：csvファイルを開く際に、コマンドパレットから呼び出すと、表計算ソフト風なUIになる。
   
 ## 3.「CSV」機能拡張
 1. 「Rainbow CSV」：CSVファイルを開いた際に、列ごとに色分けしてくれる。
-2. 「」
+2. 「Excel Viewer」：csvファイルを開く際に、コマンドパレットから呼び出すと、表計算ソフト風なUIになる。
 
 ## 4.「JSON」機能拡張
 1. 「JSON」：jsonファイルを開くと、対応する括弧の色分け、要素の色分けをしてくれる。拡張機能ウィンドウに、折りたためるツリー表示を出せる。
