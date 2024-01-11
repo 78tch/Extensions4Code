@@ -8,7 +8,7 @@ Visual Studio Code で、便利な「設定」と「機能拡張」について�
 4. 「ドキュメントのフォーマット」：エディタの右下のステータスバーで「言語モード」を選択し、エディタ上で右クリックして「ドキュメントのフォーマット」を実行すると、インデントなど見易く整形してくれる。
 
 ## 2.「Markdown」機能拡張
-1. 「Markdown All in One」：
+1. 「Markdown All in One」：目次、セクション番号、オートコンプリート、キーボードショートカットによる入力補助など。
 2. 「Markdown Preview Github Styling」：Markdown 記法で書いた文書をGithub のスタイルでプレビューできる。
 3. 「Auto-Open Markdown Preview」：拡張子「.md」なファイルを開くと、プレビューウィンドウも自動で開く。
 4. 「Excel to Markdown table」：表計算で範囲をコピーした状態で、コマンドパレットから呼び出すと、「table」記法にして貼り付けてくれる。
