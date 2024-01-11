@@ -1,7 +1,7 @@
 # Extensions4Code
-Visual Studio Code で、便利な「設定」と「機能拡張」についてまとめる。  
+Visual Studio Code で、便利な「標準機能や設定」と「機能拡張」についてまとめる。  
   
-## 1.標準機能・設定など
+## 1.便利な標準機能や設定
 1. 「日本語化する」：Code のインストール直後はUIも英語。なにはなくとも「Japanese Language Pack for Visual Studio Code」機能拡張をインストールして日本語化する。  
 2. 「スペース文字を表示する」：Render Whitespace を「all」にする。Markdown の改行である「スペース2個」の有無を見分けるため。  
 3. 「対応する括弧の色分け」：標準機能になったため、機能拡張を入れる必要はなくなった。  
@@ -9,7 +9,6 @@ Visual Studio Code で、便利な「設定」と「機能拡張」について�
 5. 「ドキュメントのフォーマット」：エディタの右下のステータスバーで「言語モード」を選択し、エディタ上で右クリックして「ドキュメントのフォーマット」を実行すると、インデントなど見易く整形してくれる。  
   
 ## 2.「Markdown」機能拡張
-
 1. 「Markdown Preview Github Styling」：Markdown 記法で書いた文書をGithub のスタイルでプレビューできる。
 2. 「Auto-Open Markdown Preview」：拡張子「.md」なファイルを開くと、プレビューウィンドウも自動で開く。
 3. 「Excel to Markdown table」：表計算で範囲をコピーした状態で、コマンドパレットから呼び出すと、「table」記法にして貼り付けてくれる。
